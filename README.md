@@ -7,4 +7,4 @@ This repo contains
 + Solve Me First
 # #TODO
 - [x] make README.md
-- [] solve every problems in *Warmup*
+- [ ] solve every problems in *Warmup*
